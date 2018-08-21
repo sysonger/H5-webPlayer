@@ -1,6 +1,6 @@
 # Summary
 
-* [Introduction](README.md)
-* [First Chapter](chapter1.md)
-* [api](api.md)
+* [简介](README.md)
+* [支持视频格式](chapter1.md)
+* [兼容性说明](api.md)
 
